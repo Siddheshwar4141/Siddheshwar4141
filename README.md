@@ -1,7 +1,9 @@
 # 👋 Hey! Nice to see you.
 ## I'm Siddheshwar 😄
 
-🎓 Student | 💻 Full-Stack Developer | 🌐 Web Enthusiast
+🎓 Student |
+💻 Full-Stack Developer |
+🌐 Web Enthusiast
 
 ---
 
