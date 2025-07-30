@@ -62,7 +62,7 @@
   </a>&nbsp;&nbsp;
  <a href="https://youtube.com/@your-channel" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" height="40"/>
   </a>&nbsp;&nbsp;
