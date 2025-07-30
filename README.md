@@ -1,6 +1,5 @@
 # 👋 Hey! Nice to see you.
-## I'm Siddheshwar 😄
-
+<p align="center"><b>## I'm Siddheshwar 😄</b></p>
 <p align="center"><b>Full Stack Developer</b></p>
 
 ### I have technical experience and interest in:
