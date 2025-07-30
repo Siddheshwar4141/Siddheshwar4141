@@ -5,6 +5,11 @@
 
 </div>
 
+<div align="center">
+
+## Full Stack Developer
+
+</div>
 <p align="center"><b>Full Stack Developer</b></p>
 
 ### I have technical experience and interest in:
