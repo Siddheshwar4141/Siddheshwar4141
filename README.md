@@ -46,9 +46,13 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
+
+
 ### My Hobbies and interests:
 - Gaming
 - Watching documentaries
+
+  
 ### you can also find me on:
 <p >
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
@@ -70,6 +74,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
+
 
 ### 📊 GitHub Stats
 
