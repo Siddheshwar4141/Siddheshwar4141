@@ -45,13 +45,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<hr/>
+
 
 ### My Hobbies and interests:
 - Gaming
 - Watching documentaries
 
-<hr/>
+
   
 ### you can also find me on:
 <p >
@@ -75,6 +75,7 @@
   </a>
 </p>
 
+<hr/>
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddheshwar4141&show_icons=true&theme=radical)
