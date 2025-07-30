@@ -52,19 +52,19 @@
 ### you can also find me on:
 <p align="left">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" alt="YouTube" width="40" height="40"/>
   </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
