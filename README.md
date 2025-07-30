@@ -1,5 +1,9 @@
-##                                                                                  👋 Hey! Nice to see you.
-###                                                                                   I'm Siddheshwar 😄
+# 👋 Hey! Nice to see you.
+## I'm Siddheshwar 😄
+
+---
+
+### Full Stack Developer
 
 
 ### I have technical experience and interest in:
