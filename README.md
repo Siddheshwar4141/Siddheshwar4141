@@ -50,26 +50,27 @@
 - Gaming
 - Watching documentaries
 ### you can also find me on:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/your-handle" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-   <a href="https://youtube.com/@your-channel" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@your-channel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube_full-color_icon_%282017%29.svg" alt="YouTube" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" height="40"/>
-  </a>
-   <a href="https://leetcode.com/your-username" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/your-username" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
