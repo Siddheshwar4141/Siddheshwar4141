@@ -55,7 +55,7 @@
   
 ### you can also find me on:
 <p >
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/siddheshwar-magar-424b0b293/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/your-handle" target="_blank">
@@ -67,10 +67,10 @@
  <a href="https://www.youtube.com/@SiddheshwarMagar4141" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30"/>
 </a>&nbsp;&nbsp;
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:siddheshwarmagar4141@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/Sidddheshwar_magar123/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
