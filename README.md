@@ -60,8 +60,8 @@
   <a href="https://instagram.com/your-handle" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" alt="YouTube" width="40" height="40"/>
+   <a href="https://youtube.com/@your-channel" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube_full-color_icon_%282017%29.svg" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" height="40"/>
