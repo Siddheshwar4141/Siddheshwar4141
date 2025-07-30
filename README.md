@@ -1,5 +1,8 @@
-# 👋 Hey! Nice to see you.
-## I'm Siddheshwar 😄
+<p align="center">
+  <h2>👋 Hey! Nice to see you.</h2>
+  <h3>I'm Siddheshwar 😄</h3>
+</p>
+
 ### I have technical experience and interest in:
 - Java
 - C programming language
