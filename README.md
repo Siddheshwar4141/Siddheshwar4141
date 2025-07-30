@@ -1,10 +1,13 @@
 # 👋 Hey! Nice to see you.
 ## I'm Siddheshwar 😄
-
-🎓 Student |
-💻 Full-Stack Developer |
-🌐 Web Enthusiast
-
+### I have technical experience and interest in:
+- Java
+- C programming language
+- Full Stack Development
+- MERN Stack Development
+- Data Structure and Algoritham
+- Database (Oracle, MySql, PostgreSql)
+- SQL
 ---
 
 ### 🚀 Tech Stack
