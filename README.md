@@ -1,5 +1,11 @@
 # 👋 Hey! Nice to see you.
-<p align="center"><b>## I'm Siddheshwar 😄</b></p>
+## I'm Siddheshwar 😄
+<div align="center">
+
+## I'm Siddheshwar 😄
+
+</div>
+
 <p align="center"><b>Full Stack Developer</b></p>
 
 ### I have technical experience and interest in:
