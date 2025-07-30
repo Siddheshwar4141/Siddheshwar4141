@@ -14,7 +14,7 @@
 - Data Structure and Algoritham
 - Database (Oracle, MySql, PostgreSql)
 - SQL
----
+
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,16 +44,29 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
----
+
 
 ### My Hobbies and interests:
 - Gaming
 - Watching documentaries
-### 📫 Contact Me
-
-- 📧 Email: siddheshwarmagar4141@gmail.com  
-- 🌐 Portfolio: [Your Portfolio Link](https://yourwebsite.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+### you can also find me on:
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/your-channel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
