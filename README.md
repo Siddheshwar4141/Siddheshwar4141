@@ -45,9 +45,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<hr/>
+
 ### My Hobbies and interests:
 - Gaming
 - Watching documentaries
+
+<hr/>
   
 ### you can also find me on:
 <p >
@@ -57,10 +61,10 @@
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/your-handle" target="_blank">
+  <a href="https://www.instagram.com/siddhu_magar_49/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>&nbsp;&nbsp;
- <a href="https://youtube.com/@your-channel" target="_blank">
+ <a href="https://www.youtube.com/@SiddheshwarMagar4141" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30"/>
 </a>&nbsp;&nbsp;
   <a href="mailto:yourmail@example.com" target="_blank">
