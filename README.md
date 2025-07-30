@@ -1,5 +1,4 @@
 # 👋 Hey! Nice to see you.
-## I'm Siddheshwar 😄
 <div align="center">
 
 ## I'm Siddheshwar 😄
