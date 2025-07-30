@@ -16,7 +16,7 @@
 - SQL
 
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,7 +51,8 @@
 ### My Hobbies and interests:
 - Gaming
 - Watching documentaries
-
+  
+---
   
 ### you can also find me on:
 <p >
@@ -74,7 +75,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
-
+---
 
 
 ### 📊 GitHub Stats
