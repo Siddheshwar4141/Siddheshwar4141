@@ -46,6 +46,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ---
 
+### My Hobbies and interests:
+- Gaming
+- Watching documentaries
 ### 📫 Contact Me
 
 - 📧 Email: siddheshwarmagar4141@gmail.com  
