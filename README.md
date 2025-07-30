@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 ## I'm Siddheshwar 😄
 
-#### Full Stack Developer
+<p align="center"><b>🚀 Full Stack Developer</b></p>
 
 ### I have technical experience and interest in:
 - Java
